@@ -10,4 +10,4 @@ Run Example.m to compare the skeletal similarity metric with the traditional eva
 
 ## Demo
 
-![image-20221005173051220](/Users/lixiang/Library/Application Support/typora-user-images/image-20221005173051220.png)
+<img src="https://github.com/lixiang007666/VesselSegMetric/blob/main/demo.png">
